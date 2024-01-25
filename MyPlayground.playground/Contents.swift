@@ -1,6 +1,6 @@
 import UIKit
 
-var greeting = "Hello, playground"
+var greeting = "Hello"
 var name = "Chintan Rajgor"
 
 func showGreeting(){
