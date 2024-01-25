@@ -12,3 +12,5 @@ func showGreeting(){
 }
 
 showGreeting()
+
+name = "Aditya Ghadge"
