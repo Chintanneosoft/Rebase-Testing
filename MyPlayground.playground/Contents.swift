@@ -4,7 +4,11 @@ var greeting = "Hello"
 var name = "Chintan Rajgor"
 
 func showGreeting(){
-    print(greeting,name)
+    if name.contains("C"){
+        print(greeting,name)
+    } else {
+        print("Greeting Chahiye, Nahi Milegi")
+    }
 }
 
 showGreeting()
